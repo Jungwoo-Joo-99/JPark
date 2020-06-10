@@ -3,7 +3,7 @@
   "grades": [
   {
     "id": 1,
-    "title": 'oh nice',
+    "title": 'ohnice',
     "grade": 100,
     "dropped": false
   },
