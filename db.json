@@ -1,20 +1,19 @@
 
 {
   "posts": [
-  {
-    "id": 1,
-    "title": "oh nice",
-    "grade": 100,
-    "dropped": false
-  },
-  {
-    "id": 2,
-    "title": "hi",
-    "grade": 100,
-    "dropped": false
-  }
-]
-,
+    {
+      "id": 1,
+      "title": "oh nice",
+      "grade": 100,
+      "dropped": false
+    },
+    {
+      "id": 2,
+      "title": "hi",
+      "grade": 100,
+      "dropped": false
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
