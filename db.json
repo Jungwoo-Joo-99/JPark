@@ -3,13 +3,13 @@
   "grades": [
   {
     "id": 1,
-    "title": 'ohnice',
+    "title": "oh nice",
     "grade": 100,
     "dropped": false
   },
   {
     "id": 2,
-    "title": 'hi',
+    "title": "hi",
     "grade": 100,
     "dropped": false
   }
